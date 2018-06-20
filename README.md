@@ -6,7 +6,7 @@ Miscellaneous programming/data projects done on my free time
 
 ### StreamFriend.py
 
-A python file to continuously check a tournament on smash.gg for its stream queue, then export the current Player names and tournament round on stream to text files. These text files can be easily used by OBS for stream overlay purposes.
+A python file to continuously check a tournament on smash.gg for its stream queue, then export the currently streamed tournament round and player names to text files. These text files can be easily used by OBS for stream overlay purposes.
 
 ### basedpy.py
 
