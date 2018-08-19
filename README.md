@@ -1,6 +1,6 @@
 # austin-projects
 
-Miscellaneous programming/data projects done on my free time
+Miscellaneous personal programming/data projects done on my free time
 
 ## Melee
 
