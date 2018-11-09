@@ -2,6 +2,12 @@
 
 Miscellaneous personal programming/data projects done on my free time
 
+## Kaggle
+
+### PUBG Finish Placement Prediction
+
+My current version of the Jupyter notebook used as a submission for the 'PUBG Finish Placement Prediction' Kaggle competition. Used over 5 million entries of game data to predict player placement given their game statistics. Used a LightGBM model to achieve a Mean Absolute Error score of 0.0432 (for targets from 0-1). Currently placed in top 37% (ongoing competition).
+
 ## Melee
 
 ### StreamFriend.py
